@@ -1,10 +1,10 @@
 {
-  "name": "react-native-material-dropdown",
-  "version": "0.11.1",
+  "name": "@mopinion-mobile/react-native-material-dropdown",
+  "version": "1.0.0",
   "license": "BSD-3-Clause",
-  "author": "Alexander Nazarov <n4kz@n4kz.com>",
+  "author": "Mopinion patch to original work of Alexander Nazarov <n4kz@n4kz.com>",
 
-  "description": "Material dropdown",
+  "description": "Material dropdown v0.11.1 patched to work with rn 0.61.5",
   "keywords": [
     "react",
     "react-component",
