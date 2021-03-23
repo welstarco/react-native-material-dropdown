@@ -1,6 +1,6 @@
 {
   "name": "@mopinion-mobile/react-native-material-dropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "BSD-3-Clause",
   "author": "Mopinion patch to original work of Alexander Nazarov <n4kz@n4kz.com>",
 
@@ -41,7 +41,7 @@
 
   "dependencies": {
     "prop-types": "^15.5.9",
-    "react-native-material-buttons": "^0.5.0",
+    "react-native-material-buttons": "^0.6.0",
     "react-native-material-ripple": "^0.8.0",
     "@ubaids/react-native-material-textfield": "^0.16.3"
   }
