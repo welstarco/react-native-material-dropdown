@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { AppRegistry, Text, View } from 'react-native';
-import { TextField } from 'react-native-material-textfield';
-import { Dropdown } from 'react-native-material-dropdown';
+import { TextField } from 'rn-material-ui-textfield';
+import { Dropdown } from '@mopinion-mobile/react-native-material-dropdown';
 
 export default function init() {
   class Example extends Component {
